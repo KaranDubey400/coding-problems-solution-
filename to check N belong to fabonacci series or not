@@ -1,1 +1,20 @@
-v
+#include <iostream>
+using namespace std;
+
+int main() {
+    int N;
+    cin >> N;
+    int a = 0;
+    int b = 1;
+    while (b <= N) {
+        if (b == N) {
+            cout << "true";
+            return 0; // Exit the program as we found the result
+        }
+        int c = a + b;
+        a = b;
+        b = c;
+    }
+    cout << "false";
+    return 0;
+}
