@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std; 
+
+int main() {
+    // Write C++ code here
+    int n;
+    cin>>n;
+
+    int divisor=2;
+    bool is_prime= false;
+    while(divisor<n){
+        if(n%divisor==0){
+           cout<<"not prime"<<endl;
+           is_prime= true; 
+        }
+        divisor++;
+    }
+    if(!is_prime){
+        cout<<"prime"<<endl;
+    }
+}
