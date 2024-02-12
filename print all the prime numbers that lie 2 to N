@@ -1,0 +1,41 @@
+Problem statement
+Given an integer N, print all the prime numbers that lie in the range 2 to N (both inclusive).
+
+Print the prime numbers in different lines.
+
+Detailed explanation ( Input/output format, Notes, Images )
+Constraints :
+1 <= N <= 100
+Sample Input 1:
+9
+Sample Output 1:
+2
+3
+5
+7
+
+code---- 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+    
+    for(int x=2;x<=n;x++){
+        bool divided =false;
+        for(int d=2;d<x;d++){
+            
+            if(x%d ==0){
+               divided=true;
+               break;
+            }
+        }
+        if (!divided) {
+            cout << x << endl;
+        }
+    }
+}
+
