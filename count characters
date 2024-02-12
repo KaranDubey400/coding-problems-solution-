@@ -1,0 +1,41 @@
+
+
+code--------------
+#include<iostream>
+using namespace std;
+int main(){
+      char ch;
+       int number=0;
+     int  character=0 ;
+      int  spacebar=0;
+    
+    
+        while(ch != '$'){
+        
+            ch = cin.get();
+         
+            if((ch >= 'a' && ch <= 'z') || (ch >= 'A'  && ch <= 'Z')){
+                character++;
+            }
+          
+            else if(ch >= '0' && ch<='9'){
+                number++;
+            }
+          
+            else if (ch == ' '){
+                spacebar++;
+            }
+           
+            else if (ch == '\n'){
+                spacebar++;
+            }
+           
+            else if (ch == '\t'){
+                spacebar++;
+            }
+            
+          }
+    cout<< character<<" "<<number<<" "<<spacebar;
+}
+
+
