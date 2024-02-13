@@ -1,0 +1,27 @@
+Problem statement
+Write a program to generate the reverse of a given number N. Print the corresponding reverse number.
+
+ If a number has trailing zeros, then its reverse will not include them. For e.g., reverse of 10400 will be 401 instead of 00401.
+
+so the code for this would be  
+code---------
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin>>n;
+    int reverse=0;
+ 
+    int lastdigit;
+    
+    
+     
+    while(n>0){
+          
+        lastdigit=n%10;
+        reverse =reverse*10+lastdigit;
+        n=n/10;
+    }
+    cout<<reverse;
+}
