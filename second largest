@@ -1,0 +1,30 @@
+#include <iostream>
+#include  <limits.h> 
+using namespace std;
+int main(){
+    int n;
+    cin>>n;
+
+    int number;
+
+    int firstmax= INT_MIN;
+    int secondmax= INT_MIN;
+     
+     int i=0;
+    while(i<=n){
+        cin>>number;
+
+        if(number>firstmax){
+            secondmax=firstmax;
+            firstmax=number;
+        }
+        else if(number<firstmax && number>secondmax){
+            secondmax=number;
+        }
+
+        i++;
+    }
+
+    cout<<secondmax<<endl;
+
+}
