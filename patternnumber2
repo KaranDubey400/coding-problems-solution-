@@ -1,0 +1,40 @@
+Sample Input :
+   5
+Sample Output :
+1234554321
+1234**4321
+123****321
+12******21
+1********1
+
+code---
+#include<iostream>
+using namespace std;
+int main(){
+     int n;
+    cin>>n;
+    int k=n;
+    int i=1;
+    while(i<=n){
+    int j=n;
+  while(j>=i) {
+            cout<<n-j+1;
+            j--;
+        } 
+        if(i>1){
+            int p=1;
+            while(p<=2*(i-1)){
+                cout<<"*";
+                p++;
+            }
+        }
+       j=k;
+        while(j>=1){
+            cout<<j;
+            j--;
+        }
+      k=k-1;
+        cout<<endl;
+        i++;     
+    }
+}
