@@ -1,0 +1,74 @@
+letcode- --Given an array of strings words, return the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below.
+
+In the American keyboard:
+
+the first row consists of the characters "qwertyuiop",
+the second row consists of the characters "asdfghjkl", and
+the third row consists of the characters "zxcvbnm".
+
+ 
+
+Example 1:
+
+Input: words = ["Hello","Alaska","Dad","Peace"]
+Output: ["Alaska","Dad"]
+Example 2:
+
+Input: words = ["omk"]
+Output: []
+Example 3:
+
+Input: words = ["adsdf","sfd"]
+Output: ["adsdf","sfd"]
+
+
+
+code--- #include <vector>
+#include <string>
+#include <unordered_set>
+using namespace std;
+
+class Solution {
+public:
+    vector<string> findWords(vector<string>& words) {
+        // Define the character sets for each row
+        unordered_set<char> row1 = {'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'};
+        unordered_set<char> row2 = {'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'};
+        unordered_set<char> row3 = {'z', 'x', 'c', 'v', 'b', 'n', 'm'};
+        
+        vector<string> result;
+        
+        for (const string& word : words) {
+            string lower_word;
+            // Convert the word to lowercase
+            for (char ch : word) {
+                lower_word += tolower(ch);
+            }
+            
+            // Determine which row the first character belongs to
+            unordered_set<char> current_row;
+            if (row1.find(lower_word[0]) != row1.end()) {
+                current_row = row1;
+            } else if (row2.find(lower_word[0]) != row2.end()) {
+                current_row = row2;
+            } else if (row3.find(lower_word[0]) != row3.end()) {
+                current_row = row3;
+            }
+            
+            // Check if all characters belong to the same row
+            bool can_be_typed = true;
+            for (char ch : lower_word) {
+                if (current_row.find(ch) == current_row.end()) {
+                    can_be_typed = false;
+                    break;
+                }
+            }
+            
+            if (can_be_typed) {
+                result.push_back(word);
+            }
+        }
+        
+        return result;
+    }
+};
