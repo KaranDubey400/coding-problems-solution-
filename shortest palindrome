@@ -1,0 +1,59 @@
+You are given a string s. You can convert s to a 
+palindrome
+ by adding characters in front of it.
+
+Return the shortest palindrome you can find by performing this transformation.
+
+ 
+
+Example 1:
+
+Input: s = "aacecaaa"
+Output: "aaacecaaa"
+Example 2:
+
+Input: s = "abcd"
+Output: "dcbabcd"
+ 
+
+Constraints:
+
+0 <= s.length <= 5 * 104
+s consists of lowercase English letters only.
+
+
+code---
+
+
+class Solution {
+public:
+    string shortestPalindrome(string s) {
+        string rev_s = s;
+        reverse(rev_s.begin(), rev_s.end());
+        
+        // Construct the new string by combining s and its reverse with a separator
+        string new_s = s + "#" + rev_s;
+        
+        // Compute the KMP prefix function
+        vector<int> prefix(new_s.size(), 0);
+        for (int i = 1; i < new_s.size(); i++) {
+            int j = prefix[i - 1];
+            
+            while (j > 0 && new_s[i] != new_s[j]) {
+                j = prefix[j - 1];
+            }
+            
+            if (new_s[i] == new_s[j]) {
+                j++;
+            }
+            prefix[i] = j;
+        }
+        
+        // The longest palindromic prefix length is given by the last value in the prefix array
+        int longest_palindromic_prefix_len = prefix[new_s.size() - 1];
+        
+        // Append the reverse of the remaining suffix in front of the original string
+        string suffix_to_add = rev_s.substr(0, s.size() - longest_palindromic_prefix_len);
+        return suffix_to_add + s;
+    }
+};
