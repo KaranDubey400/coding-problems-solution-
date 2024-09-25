@@ -25,6 +25,5 @@ int main(){
     }else if( c != 1) {
           cout<<-1;
       }
-        
      
 }
