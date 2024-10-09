@@ -1,0 +1,63 @@
+Given two strings s1 and s2, return true if s2 contains a 
+permutation
+ of s1, or false otherwise.
+
+In other words, return true if one of s1's permutations is the substring of s2.
+
+ 
+
+Example 1:
+
+Input: s1 = "ab", s2 = "eidbaooo"
+Output: true
+Explanation: s2 contains one permutation of s1 ("ba").
+Example 2:
+
+Input: s1 = "ab", s2 = "eidboaoo"
+Output: false
+ 
+
+Constraints:
+
+1 <= s1.length, s2.length <= 104
+s1 and s2 consist of lowercase English letters.
+
+
+code---
+class Solution {
+public:
+    bool checkInclusion(string s1, string s2) {
+        int len1 = s1.length(), len2 = s2.length();
+        
+        if (len1 > len2) return false;  // s1 cannot be a permutation of s2 if it's longer
+        
+        vector<int> s1_count(26, 0), window_count(26, 0);
+        
+        // Count the frequency of each character in s1
+        for (char c : s1) {
+            s1_count[c - 'a']++;
+        }
+        
+        // Initialize the window with the first 'len1' characters of s2
+        for (int i = 0; i < len1; i++) {
+            window_count[s2[i] - 'a']++;
+        }
+        
+        // Check if the initial window matches the s1_count
+        if (s1_count == window_count) return true;
+        
+        // Start sliding the window across s2
+        for (int i = len1; i < len2; i++) {
+            // Add the new character to the window
+            window_count[s2[i] - 'a']++;
+            // Remove the character that is no longer in the window
+            window_count[s2[i - len1] - 'a']--;
+            
+            // Check if the current window matches the s1_count
+            if (s1_count == window_count) return true;
+        }
+        
+        // No permutation found
+        return false;
+    }
+};
