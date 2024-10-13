@@ -1,0 +1,82 @@
+ou have k lists of sorted integers in non-decreasing order. Find the smallest range that includes at least one number from each of the k lists.
+
+We define the range [a, b] is smaller than range [c, d] if b - a < d - c or a < c if b - a == d - c.
+
+ 
+
+Example 1:
+
+Input: nums = [[4,10,15,24,26],[0,9,12,20],[5,18,22,30]]
+Output: [20,24]
+Explanation: 
+List 1: [4, 10, 15, 24,26], 24 is in range [20,24].
+List 2: [0, 9, 12, 20], 20 is in range [20,24].
+List 3: [5, 18, 22, 30], 22 is in range [20,24].
+Example 2:
+
+Input: nums = [[1,2,3],[1,2,3],[1,2,3]]
+Output: [1,1]
+ 
+
+Constraints:
+
+nums.length == k
+1 <= k <= 3500
+1 <= nums[i].length <= 50
+-105 <= nums[i][j] <= 105
+nums[i] is sorted in non-decreasing order.
+
+
+code 
+
+#include <vector>
+#include <queue>
+#include <limits>
+
+class Solution {
+public:
+    std::vector<int> smallestRange(std::vector<std::vector<int>>& nums) {
+        // Min-heap to store the current minimum element along with the index of the list and its index
+        using Element = std::tuple<int, int, int>; // (value, listIndex, elementIndex)
+        auto cmp = [](const Element& a, const Element& b) {
+            return std::get<0>(a) > std::get<0>(b); // Min-heap based on value
+        };
+        
+        std::priority_queue<Element, std::vector<Element>, decltype(cmp)> minHeap(cmp);
+        
+        int currentMax = std::numeric_limits<int>::min();
+        
+        // Push the first element of each list into the heap
+        for (int i = 0; i < nums.size(); ++i) {
+            minHeap.push({nums[i][0], i, 0});
+            currentMax = std::max(currentMax, nums[i][0]);
+        }
+        
+        std::vector<int> result = {std::numeric_limits<int>::min(), std::numeric_limits<int>::max()};
+        
+        // Start finding the smallest range
+        while (true) {
+            auto [currentMin, listIndex, elementIndex] = minHeap.top();
+            minHeap.pop();
+            
+            // Update the result if the current range is smaller
+            if (currentMax - currentMin < result[1] - result[0]) {
+                result = {currentMin, currentMax};
+            }
+            
+            // If we can add more elements from the same list, do so
+            if (elementIndex + 1 < nums[listIndex].size()) {
+                int nextElement = nums[listIndex][elementIndex + 1];
+                minHeap.push({nextElement, listIndex, elementIndex + 1});
+                currentMax = std::max(currentMax, nextElement); // Update the current max
+            } else {
+                // If we reach the end of any list, we can stop
+                break;
+            }
+        }
+        
+        return result;
+    }
+};
+
+
