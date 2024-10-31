@@ -1,0 +1,70 @@
+You are given an integer array nums. A subsequence of nums is called a square streak if:
+
+The length of the subsequence is at least 2, and
+after sorting the subsequence, each element (except the first element) is the square of the previous number.
+Return the length of the longest square streak in nums, or return -1 if there is no square streak.
+
+A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
+
+ 
+
+Example 1:
+
+Input: nums = [4,3,6,16,8,2]
+Output: 3
+Explanation: Choose the subsequence [4,16,2]. After sorting it, it becomes [2,4,16].
+- 4 = 2 * 2.
+- 16 = 4 * 4.
+Therefore, [4,16,2] is a square streak.
+It can be shown that every subsequence of length 4 is not a square streak.
+Example 2:
+
+Input: nums = [2,3,5,6,7]
+Output: -1
+Explanation: There is no square streak in nums so return -1.
+ 
+
+Constraints:
+
+2 <= nums.length <= 105
+2 <= nums[i] <= 105
+
+
+code-----
+#include <vector>
+#include <unordered_set>
+#include <algorithm>
+using namespace std;
+
+class Solution {
+public:
+    int longestSquareStreak(vector<int>& nums) {
+        // Sort the array to enable easier square streak checks.
+        sort(nums.begin(), nums.end());
+        
+        // Use a set to hold numbers for quick lookup.
+        unordered_set<int> numSet(nums.begin(), nums.end());
+        
+        int maxStreak = -1; // Track the longest streak found
+        
+        // Traverse each number in the sorted array
+        for (int num : nums) {
+            long long current = num;  // Use long long to avoid overflow
+            int streakLength = 1;
+            
+            // Continue checking if the square of the current number exists in the set
+            while (current * current <= INT_MAX && numSet.find(current * current) != numSet.end()) {
+                current *= current; // Square the current number
+                streakLength++; // Increase the streak length
+            }
+            
+            // Only consider streaks of length >= 2
+            if (streakLength >= 2) {
+                maxStreak = max(maxStreak, streakLength);
+            }
+        }
+        
+        return maxStreak;
+    }
+};
+
