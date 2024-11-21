@@ -1,0 +1,79 @@
+2516. Take K of Each Character From Left and Right
+Solved
+Medium
+Topics
+Companies
+Hint
+You are given a string s consisting of the characters 'a', 'b', and 'c' and a non-negative integer k. Each minute, you may take either the leftmost character of s, or the rightmost character of s.
+
+Return the minimum number of minutes needed for you to take at least k of each character, or return -1 if it is not possible to take k of each character.
+
+ 
+
+Example 1:
+
+Input: s = "aabaaaacaabc", k = 2
+Output: 8
+Explanation: 
+Take three characters from the left of s. You now have two 'a' characters, and one 'b' character.
+Take five characters from the right of s. You now have four 'a' characters, two 'b' characters, and two 'c' characters.
+A total of 3 + 5 = 8 minutes is needed.
+It can be proven that 8 is the minimum number of minutes needed.
+Example 2:
+
+Input: s = "a", k = 1
+Output: -1
+Explanation: It is not possible to take one 'b' or 'c' so return -1.
+ 
+
+Constraints:
+
+1 <= s.length <= 105
+s consists of only the letters 'a', 'b', and 'c'.
+0 <= k <= s.length
+
+code=== 
+#include <unordered_map>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+class Solution {
+public:
+    int takeCharacters(std::string s, int k) {
+        // Step 1: Count total occurrences of 'a', 'b', and 'c' in s
+        std::unordered_map<char, int> total_count;
+        for (char c : s) {
+            total_count[c]++;
+        }
+
+        // Step 2: If any character occurs less than k times, return -1
+        if (total_count['a'] < k || total_count['b'] < k || total_count['c'] < k) {
+            return -1;
+        }
+
+        // Step 3: Sliding window to find the largest valid substring
+        int n = s.size();
+        int left = 0, max_window_size = 0;
+        std::unordered_map<char, int> window_count;
+
+        for (int right = 0; right < n; ++right) {
+            // Add the current character to the window
+            window_count[s[right]]++;
+
+            // Shrink the window from the left if it violates the condition
+            while ((total_count['a'] - window_count['a'] < k) ||
+                   (total_count['b'] - window_count['b'] < k) ||
+                   (total_count['c'] - window_count['c'] < k)) {
+                window_count[s[left]]--;
+                left++;
+            }
+
+            // Update the maximum window size
+            max_window_size = std::max(max_window_size, right - left + 1);
+        }
+
+        // Step 4: Calculate the minimum minutes needed
+        return n - max_window_size;
+    }
+};
