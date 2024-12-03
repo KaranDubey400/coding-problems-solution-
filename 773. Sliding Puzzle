@@ -1,0 +1,69 @@
+#include <vector>
+#include <queue>
+#include <unordered_set>
+#include <string>
+
+using namespace std;
+
+class Solution {
+public:
+    int slidingPuzzle(vector<vector<int>>& board) {
+        string start = boardToString(board);
+        string target = "123450";  // The solved state
+
+        // Possible moves for each position of 0 (index in the 1D string)
+        vector<vector<int>> moves = {
+            {1, 3},    // index 0 can swap with index 1 or 3
+            {0, 2, 4}, // index 1 can swap with index 0, 2, or 4
+            {1, 5},    // index 2 can swap with index 1 or 5
+            {0, 4},    // index 3 can swap with index 0 or 4
+            {1, 3, 5}, // index 4 can swap with index 1, 3, or 5
+            {2, 4}     // index 5 can swap with index 2 or 4
+        };
+
+        // BFS initialization
+        queue<pair<string, int>> q;  // {board state, number of moves}
+        unordered_set<string> visited;
+
+        q.push({start, 0});
+        visited.insert(start);
+
+        while (!q.empty()) {
+            auto [current, steps] = q.front();
+            q.pop();
+
+            // Check if the current state is the target state
+            if (current == target) return steps;
+
+            // Find the index of '0' in the current board state
+            int zeroIndex = current.find('0');
+
+            // Try all possible moves
+            for (int next : moves[zeroIndex]) {
+                string newBoard = current;
+                swap(newBoard[zeroIndex], newBoard[next]);
+                
+                // If this state hasn't been visited yet, add it to the queue
+                if (!visited.count(newBoard)) {
+                    q.push({newBoard, steps + 1});
+                    visited.insert(newBoard);
+                }
+            }
+        }
+
+        // If BFS completes without finding the target state, return -1
+        return -1;
+    }
+
+private:
+    // Convert the 2D board to a 1D string
+    string boardToString(const vector<vector<int>>& board) {
+        string s;
+        for (const auto& row : board) {
+            for (int num : row) {
+                s += to_string(num);
+            }
+        }
+        return s;
+    }
+};
