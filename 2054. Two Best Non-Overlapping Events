@@ -6,8 +6,7 @@ Note that the start time and end time is inclusive: that is, you cannot attend t
 
  
 
-Example 1:
-
+Example 1
 
 Input: events = [[1,3,2],[4,5,2],[2,4,3]]
 Output: 4
