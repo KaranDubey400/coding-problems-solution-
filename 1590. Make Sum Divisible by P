@@ -4,7 +4,6 @@ Return the length of the smallest subarray that you need to remove, or -1 if it'
 
 A subarray is defined as a contiguous block of elements in the array.
 
- 
 
 Example 1:
 
