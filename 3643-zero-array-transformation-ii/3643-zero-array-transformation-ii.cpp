@@ -2,8 +2,15 @@ class Solution {
 public:
     int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size(), left = 0, right = queries.size();
+        
+        // Check if nums is already all zeros
+        bool allZero = true;
+        for (int i = 0; i < n && allZero; i++) {
+            if (nums[i] != 0) allZero = false;
+        }
+        if (allZero) return 0;
 
-        // Zero array isn't formed after all queries are processed
+        // Check if all queries suffice
         if (!canFormZeroArray(nums, queries, right)) return -1;
 
         // Binary Search
@@ -15,31 +22,26 @@ public:
                 left = middle + 1;
             }
         }
-
-        // Return earliest query that zero array can be formed
         return left;
     }
 
 private:
-    bool canFormZeroArray(vector<int>& nums, vector<vector<int>>& queries,
-                          int k) {
-        int n = nums.size(), sum = 0;
-        vector<int> differenceArray(n + 1);
-
-        // Process query
-        for (int queryIndex = 0; queryIndex < k; queryIndex++) {
-            int start = queries[queryIndex][0], end = queries[queryIndex][1],
-                val = queries[queryIndex][2];
-
-            // Process start and end of range
-            differenceArray[start] += val;
-            differenceArray[end + 1] -= val;
+    bool canFormZeroArray(vector<int>& nums, vector<vector<int>>& queries, int k) {
+        int n = nums.size();
+        vector<long long> diff(n + 1, 0);
+        
+        // Process first k queries
+        for (int i = 0; i < k; i++) {
+            int l = queries[i][0], r = queries[i][1], val = queries[i][2];
+            diff[l] += val;
+            if (r + 1 < n) diff[r + 1] -= val; // Avoid out-of-bounds
         }
-
-        // Check if zero array can be formed
-        for (int numIndex = 0; numIndex < n; numIndex++) {
-            sum += differenceArray[numIndex];
-            if (sum < nums[numIndex]) return false;
+        
+        // Check if decrements suffice
+        long long sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum += diff[i];
+            if (sum < nums[i]) return false;
         }
         return true;
     }
