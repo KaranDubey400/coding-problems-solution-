@@ -5,11 +5,11 @@ public:
         
         for (int right = 0; right < nums.size(); ++right) {
             while ((bit_mask & nums[right]) != 0) {
-                bit_mask ^= nums[left];  // Remove nums[left] from bit_mask
+                bit_mask ^= nums[left];  
                 left++;
             }
             
-            bit_mask |= nums[right];  // Add nums[right] to bit_mask
+            bit_mask |= nums[right];  
             maxLength = max(maxLength, right - left + 1);
         }
         
