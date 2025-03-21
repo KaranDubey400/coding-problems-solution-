@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
 ## Graph
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
