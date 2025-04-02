@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
+| [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
