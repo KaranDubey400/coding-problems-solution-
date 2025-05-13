@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
@@ -73,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
