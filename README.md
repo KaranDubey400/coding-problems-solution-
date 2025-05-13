@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
+| [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
