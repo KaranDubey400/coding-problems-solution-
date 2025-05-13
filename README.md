@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3643-zero-array-transformation-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
 | ------- |
