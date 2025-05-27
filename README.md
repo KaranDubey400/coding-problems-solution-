@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0125-valid-palindrome) |
