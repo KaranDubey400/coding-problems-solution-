@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
