@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
