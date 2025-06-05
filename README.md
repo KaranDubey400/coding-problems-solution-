@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0908-middle-of-the-linked-list) |
 ## Graph
