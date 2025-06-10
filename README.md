@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
