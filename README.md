@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Database
 |  |
 | ------- |
