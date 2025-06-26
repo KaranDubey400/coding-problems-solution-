@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0011-container-with-most-water) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
