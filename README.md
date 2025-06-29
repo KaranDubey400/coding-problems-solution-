@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Graph
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 ## Backtracking
