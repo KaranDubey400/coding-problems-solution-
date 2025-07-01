@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
