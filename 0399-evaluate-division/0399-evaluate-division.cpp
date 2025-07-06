@@ -19,7 +19,7 @@ public:
     }
 
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
-        // Step 1: Build the graph
+        
         for (int i = 0; i < equations.size(); ++i) {
             string a = equations[i][0];
             string b = equations[i][1];
@@ -29,7 +29,7 @@ public:
             graph[b].push_back({a, 1.0 / val});
         }
 
-        // Step 2: Answer queries using DFS
+      
         vector<double> result;
         for (auto& query : queries) {
             unordered_set<string> visited;
