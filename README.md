@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3321-type-of-triangle](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
