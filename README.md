@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
