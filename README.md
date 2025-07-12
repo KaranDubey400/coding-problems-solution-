@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Database
 |  |
 | ------- |
