@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1500-count-largest-group) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1500-count-largest-group](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3321-type-of-triangle) |
