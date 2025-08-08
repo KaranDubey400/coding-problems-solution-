@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
