@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
