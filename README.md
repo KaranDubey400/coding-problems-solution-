@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
