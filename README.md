@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Segment Tree
 |  |
 | ------- |
