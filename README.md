@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
