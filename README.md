@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0399-evaluate-division) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0826-soup-servings) |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
