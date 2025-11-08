@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3643-zero-array-transformation-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
