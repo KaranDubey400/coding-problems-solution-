@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Graph
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
