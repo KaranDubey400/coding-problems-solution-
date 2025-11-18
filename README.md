@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
