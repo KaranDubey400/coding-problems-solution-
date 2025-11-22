@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
