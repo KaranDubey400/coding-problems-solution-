@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
