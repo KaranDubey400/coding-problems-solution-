@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1813-maximum-erasure-value) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0713-subarray-product-less-than-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1590-make-sum-divisible-by-p) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
