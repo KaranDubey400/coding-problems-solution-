@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1500-count-largest-group) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
