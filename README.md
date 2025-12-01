@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3790-fruits-into-baskets-ii) |
