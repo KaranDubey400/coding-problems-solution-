@@ -14,8 +14,9 @@ public:
         sort(intervals.begin(), intervals.end());
         
        
-        vector<vector<int>> result;
-        
+        vector<vector<int>> result; 
+
+      
        
         result.push_back(intervals[0]);
         
