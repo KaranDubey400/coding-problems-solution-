@@ -409,11 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0399-evaluate-division) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0112-path-sum) |
 | [0399-evaluate-division](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0945-snakes-and-ladders) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
