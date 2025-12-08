@@ -1,25 +1,24 @@
 class Solution {
 public:
-   
-        int maxProduct(vector<int> &arr) {
-    int n = arr.size();
-  
-    // Initializing result
-    int result = arr[0];
-
-    for (int i = 0; i < n; i++) {
-        int mul = 1;
-      
-        // traversing in current subarray
-        for (int j = i; j < n; j++) {
-          	mul *= arr[j];
+    int maxProduct(vector<int>& nums) {
+        if (nums.empty()) return 0;
+        
+        int maxProduct = nums[0];
+        int currentMax = nums[0];
+        int currentMin = nums[0];
+        
+        for (int i = 1; i < nums.size(); i++) {
+         
+            int temp = currentMax;
+            
+         
+            currentMax = max({nums[i], nums[i] * currentMax, nums[i] * currentMin});
+            currentMin = min({nums[i], nums[i] * temp, nums[i] * currentMin});
+            
           
-            // updating result every time
-            // to keep track of the maximum product
-            result = max(result, mul);
+            maxProduct = max(maxProduct, currentMax);
         }
-    }
-    return result;
-
+        
+        return maxProduct;
     }
 };
