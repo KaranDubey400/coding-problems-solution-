@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1925-count-square-sum-triples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
