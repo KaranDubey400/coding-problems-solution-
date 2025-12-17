@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0399-evaluate-division) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0190-reverse-bits) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0231-power-of-two) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/1642-water-bottles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KaranDubey400/coding-problems-solution-/tree/master/2154-keep-multiplying-found-values-by-two) |
